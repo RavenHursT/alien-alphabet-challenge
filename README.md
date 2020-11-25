@@ -7,9 +7,10 @@ Given a sorted "dictionary" of "alien" words, derive the order of the characters
 Example:
 
 Given the dictionary: `["baa", "abcd", "abca", "cab", "cad"]`
+
 The derived alphabet order would be: `[ 'b', 'd', 'a', 'c' ]`
 
-Determined by use of a topological graph sorting.
+Determined by use of topological graph sorting.
 
 ### How to run:
 ```
