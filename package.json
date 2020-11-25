@@ -1,0 +1,26 @@
+{
+  "name": "alien-alphabet",
+  "version": "0.0.1",
+  "description": "Given sorted list of words. Derive the order of the alphabet used.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "exec": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavenHursT/alien-alphabet.git"
+  },
+  "keywords": [
+    "coding-challenge"
+  ],
+  "author": "Matthew Marcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavenHursT/alien-alphabet/issues"
+  },
+  "homepage": "https://github.com/RavenHursT/alien-alphabet#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
